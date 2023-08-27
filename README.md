@@ -1,5 +1,5 @@
 ![Banner](https://github.com/ybpatil14/ybpatil14/blob/main/Yogesh%20patil.png)
-
+![Banner](ybpatil14/Yogesh Patil.png)
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
