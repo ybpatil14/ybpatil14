@@ -1,10 +1,4 @@
 ![logo](https://github.com/ybpatil14/ybpatil14/blob/main/Yogesh%20patil.png)
-.github-logo {
-  width: 100px; /* Adjust size as needed */
-  height: 100px;
-  background-image: url('path/to/https://github.com/ybpatil14/ybpatil14/blob/main/Yogesh%20patil.png');
-  background-size: cover;
-}
 
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
